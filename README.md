@@ -30,7 +30,7 @@
 
 ### 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjrshn&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=singhatanshu10-code&show_icons=true&theme=tokyonight)
 
 ---
 
