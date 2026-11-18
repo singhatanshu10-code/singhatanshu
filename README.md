@@ -1,24 +1,39 @@
-# Hey, I'm Atanshu Singh! 👋
+<h1 align="center">Hi, I'm Atanshu Singh 👋</h1>
 
-### 💻 B.Tech CSE Student | Aspiring Software Developer
+<h3 align="center">Aspiring Software Developer | CSE Student</h3>
 
-Welcome to my GitHub profile!
+<p align="center">
+  Learning • Building • Improving
+</p>
 
-I'm a first-year Computer Science Engineering student at **Pranveer Singh Institute of Technology (PSIT), Kanpur**.
+---
 
-- 🌱 Currently learning **Python, C, and Programming Fundamentals**
-- 💡 Interested in Software Development, AI & Technology
-- 🚀 Exploring new technologies and building projects
-- 🎯 My goal is to become a skilled developer and build something impactful.
-- 🤝 Always ready to learn, collaborate, and grow!
+### 👨‍💻 About Me
 
-### 🛠️ Tech Stack
-- Languages: Python, C (Learning)
-- Tools: Git, GitHub, VS Code
-- Interests: Software Development
+- 🎓 CSE Student
+- 💻 Interested in Software Development
+- 🌱 Currently learning C and Python
+- 🚀 Exploring programming and problem solving
+- 🎯 Working towards becoming a Software Engineer
 
-### 📌 My Motto
-"Learn consistently, build creatively, and grow continuously."
+### 🛠️ Technologies & Tools
 
-### 📫 Let's Connect!
-Feel free to explore my repositories and connect with me!
+<p>
+  <img src="https://skillicons.dev/icons?i=c,python,git,github,vscode" />
+</p>
+
+### 📌 Current Focus
+
+- Strengthening programming fundamentals
+- Learning Data Structures and Algorithms
+- Building practical coding projects
+
+### 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjrshn&show_icons=true&theme=tokyonight)
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! ⭐</b>
+</p>
